@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @penguin32
-- 👀 I’m interested in ... Looking for work that I can do.(money🥺😂)
+- 👀 Edit: __Close : can't code __ --I’m interested in ... Looking for work that I can do.(money🥺😂)--
 - 🌱 I’m currently learning ... Lua, love2d, godot
 - 💞️ I’m looking to collaborate on ... love2d projects
 - 📫 How to reach me ... facebook or X
